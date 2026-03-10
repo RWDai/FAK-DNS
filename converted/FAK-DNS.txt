@@ -1,5 +1,8 @@
-https://1.1.1.1/dns-query
-https://1.0.0.1/dns-query
+https://v.recipes/dns-cn
+https://0ms.dev/dns-query
+https://v.recipes/dns-query
+https://aaa.ddd.oaifree.com/query-dns
+https://i4cm5lqxfu.cloudflare-gateway.com/dns-query
 [/265.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
 [/2mdn-cn.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
 [/2mdn.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
